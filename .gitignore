@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.python2_vendor/
+.venv/
+venv/
+
+# 模型权重（大文件，单独下载）
+*.pt
+*.pth
+*.bin
+*.onnx
+sim_workspace/image_seg/weight/
+
+# 临时文件
+*.log
+
+# Generated ROS/catkin workspaces and local packages
+ros_bridge_ws/build/
+ros_bridge_ws/devel/
+ros_bridge_ws/install/
+sim_workspace/image_seg/runs/
+
+# Local archives and runtime data
+*.tar
+*.tar.gz
+*.zip
+*.bag
+*.db3
