@@ -39,7 +39,7 @@ A hands-on perception tutorial series built on **CARLA simulator + ROS1**, cover
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/CARLA-ROS1-Perception-Practice.git
+git clone https://github.com/xiaolaobanbutan/CARLA-ROS1-Perception-Practice.git
 cd CARLA-ROS1-Perception-Practice
 ```
 

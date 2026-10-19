@@ -38,7 +38,7 @@
 ### 1. 克隆仓库
 ```bash
 
-git clone https://github.com/<your-username>/CARLA-ROS1-Perception-Practice.git
+git clone https://github.com/xiaolaobanbutan/CARLA-ROS1-Perception-Practice.git
 cd CARLA-ROS1-Perception-Practice
 ```
 
